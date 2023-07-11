@@ -1,0 +1,8 @@
+streamlit
+numpy
+seaborn
+altair
+pymongo
+matplotlib
+polars
+scikit-learn

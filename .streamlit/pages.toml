@@ -1,0 +1,20 @@
+[[pages]]
+path = "test_dash.py"
+name = "Metapals Dashboard"
+icon = ":dog:"
+
+[[pages]]
+name = "Gameplay Metrics"
+icon = ":video_game:"
+is_section = true
+
+[[pages]]
+path = "pages/page_one.py"
+name = "Example One"
+icon = ":books:"
+
+[[pages]]
+path = "pages/page_two.py"
+name = "Example Two"
+icon = "📖"
+in_section = false
